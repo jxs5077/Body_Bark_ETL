@@ -1,0 +1,1288 @@
+customer_id,city,state,zip
+1583,Delray Beach,FL,33484
+1146,Coral Gables,FL,33134
+570,Grosse Pointe Farms,MI,48236
+545,raleigh,NC,27609
+539,Charlotte,NC,28203
+452,Uniontown,OH,44685
+1453,Danbury,NC,27016
+1614,Middleton,WI,53562
+971,Estes Park,CO,80517
+879,San Francisco,CA,94123
+1276,Denver,CO,80230
+213,Littleton,CO,80127
+792,Washington,DC,20008
+673,Dallas,TX,75230
+1731,San Francisco,CA,94129
+769,Glastonbury,CT,06033
+1027,Evergreen,CO,80439
+1013,Denver,CO,80223
+1033,DENVER,CO,80236
+1036,Encampment,WY,82325
+1039,Golden,CO,80403
+1010,Denver,CO,80210
+1025,Paonia,CO,81428
+1008,Evans,CO,80620
+1038,Broomfield,CO,80023
+1012,Fort Collins,CO,80524
+1043,Steamboat Springs,CO,80487
+1017,Aurora,CO,80013
+1021,Centennial,CO,80121
+1019,Windsor,CO,80550
+1018,Denver,CO,80218
+1031,Appleton,WI,54911
+1028,Aurora,CO,80012
+1015,Steamboat Springs,CO,80487
+1045,Golden,CO,80401
+1022,Westcliffe,CO,81252
+1026,Temecula,CA,92592
+1009,Iliff,CO,80736
+1023,Boulder,CO,80303
+1024,Loveland,CO,80538
+1020,Littleton,CO,80123
+1358,Saratoga,CA,95070
+1348,Denver,CO,80210
+1359,Santa Fe,nm,87506
+1295,Marathon,WI,54448
+1259,Portsmouth,RI,02871
+533,Seattle,WA,98119
+1329,San Francisco,CA,94122
+1357,Mendon,MA,01756
+1360,Greenwood Village,CO,80111
+233,Boulder,CO,80305
+1370,Denver,CO,80206
+1445,Denver,CO,80220
+741,Chicago,IL,60610
+414,Hopkinton,MA,01748
+1208,Menlo Park,CA,94025
+885,MorristownNj,NJ,07960
+1438,San Francisco,CA,94118
+1297,Watertown,WI,53098
+1441,Melrose,MA,02176
+1440,Washington,DC,20007
+653,Louisville,CO,80027
+42,Vail,CO,81657
+14,Portland,OR,97215
+471,Aurora,CO,80015
+387,Seattle,WA,98105
+680,San Francisco,CA,94115
+814,Mill Valley,CA,94941
+768,Brooklyn,NY,11215
+502,Brooklyn,NY,11231
+841,los altos hills,CA,94022
+554,Charlotte,NC,28209
+671,Inverness,IL,60010
+654,Saint Charles,IL,60174
+44,Austin,TX,78701
+766,Louisville,KY,40299
+368,Sedalia,CO,80135
+850,shreveport,LA,71106
+459,Rancho Santa Fe,CA,92091
+773,Houston,TX,77024
+1478,Denver,CO,80237
+636,Paso Robles,CA,93446
+754,Houston,TX,77005
+1605,Greensboro,NC,27403
+373,Long Beach,CA,90808
+735,Los Altos,CA,94024
+68,Aurora,CO,80010
+9001,Salinas,CA,93901
+1404,Austin,TX,78704
+1413,Salt Lake City,UT,84121
+1299,Brookline,MA,02445
+1416,Longwood,FL,32750
+1652,San Antonio,TX,78204
+266,Denver,CO,80210
+1236,Corpus christi,TX,78413
+379,Nantucket,MA,02554
+355,Ballwin,MO,63021
+1141,Denver,CO,80237
+308,morton,IL,61550
+1366,Eugene,OR,97405
+1193,San Francisco,CA,94114
+491,Neenah,WI,54956
+1472,Camden,ME,04843
+1584,San Francisco,CA,94118
+1104,Syracuse,NY,13214
+1574,Denver,CO,80210
+1575,Akron,OH,44313
+800,MANCHESTER,VT,05254
+591,Denver,CO,80203
+1487,Chicago,IL,60641
+1636,Alameda,CA,94501
+1754,Atlanta,GA,30319
+1752,Basalt,CO,81621
+1322,Los Altos,CA,94024
+1750,Inverness,IL,60067
+1450,Carmel,CA,93923
+1361,Glenview,IL,60025
+581,Culver City,CA,90230
+1471,Greensburg,PA,15601
+1466,Raleigh,NC,27609
+1398,Moab,UT,84532
+397,Apalachicola,FL,32320
+1460,Washington,DC,20016
+1377,San Antonio,TX,78229
+1346,potomac,MD,20854
+1133,Hilton head,SC,29926
+1233,Austin,TX,78703
+1003,Boerne,TX,78006
+1521,Evergreen,CO,80439
+674,Littleton,CO,80128
+1327,Albany,NY,12204
+90,San Francisco,CA,94123
+1544,San Francisco,CA,94115
+846,Dallas,TX,75225
+1456,Denver,CO,80210
+732,Denver,CO,80210
+1194,Sussex,WI,53089
+1736,Los Altos,CA,94024
+1744,st thomas,VI,00803
+1770,Heber city,UT,84032
+1062,Denver,CO,80246
+106,Denver,CO,80224
+194,Denver,CO,80224
+1284,Greenwood Village,CO,80111
+1279,Denver,CO,80210
+802,Newport  Beach,CA,92662
+1641,Boerne,TX,78006
+1639,SISTERS,OR,97759
+1510,brookline,MA,02446
+241,Sparta,NJ,07871
+454,Austin,TX,78739
+640,Webster,WI,54893
+13,Denver,CO,80203
+1556,Aurora,CO,80016
+250,Brewster,WA,98812
+1485,Lafayette,LA,70501
+950,Santa Fe,NM,87505
+1611,PORTLAND,OR,97212
+1735,KETCHUM,ID,833401300
+1480,Hopkinton,MA,01748
+1560,west newton,MA,02465
+1661,Rockville,MD,20850
+651,Englewood,CO,80113
+1592,Birmingham,AL,35205
+1598,Washington,DC,20016
+1520,Loveland,CO,80537
+208,Menlo Park,CA,94025
+1368,San Francisco,CA,94133
+1292,Somerset,PA,15501
+1071,River Hills,WI,53217
+469,Narberth,PA,19072
+1263,Malvern,IA,51551
+247,Castle Pines,CO,80108
+1260,Oneonta,NY,13820
+1232,Glendora,CA,91740
+721,West Simsbury,CT,06092
+273,Los Angeles,CA,90027
+236,Loveland,CO,80538
+1223,SAN DIEGO,CA,92120
+261,Allen,TX,75013
+1005,Honolulu,HI,96816
+1218,Carmel,CA,93923
+1293,Denver,CO,80210
+395,San Francisco,CA,94110
+784,Baltimore,MD,21211
+516,oakland,CA,94612
+1226,Los altos hills,CA,94022
+977,Melrose,MA,02176
+863,Round Rock,TX,78665
+1290,Denver,CO,80224
+1291,Denver,CO,80222
+1282,Denver,CO,80210
+1288,Mattapoisett,MA,02739
+517,wayne,PA,19087
+1461,Charlotte,NC,28277
+237,Wheeling,IL,60090
+1640,Los Altos,CA,94022
+1286,Winston Salem,NC,27101
+409,denver,CO,80210
+656,Denver,CO,80210
+752,Denver,CO,80222
+1347,San Francisco,CA,94115
+1037,Sugar Hill,GA,30518
+1753,WALTHAM,MA,02453
+1035,Lafayette,CO,80026
+1110,Greenwich,CT,06830
+1247,Mill Valley,CA,94941
+358,San Francisco,CA,94117
+216,Lawrenceville,NJ,08648
+1378,Los Altos,CA,94022
+9071,Pebble Beach,CA,93953
+1242,Greensburg,PA,15601
+1217,Fremont,CA,94539
+1720,Los Angeles,CA,90046
+1759,Dallas,TX,75219
+1713,Steilacoom,WA,98303
+1708,Ocean View,HI,96737
+984,Houston,TX,77056
+1658,Cupertino,CA,95014
+1673,Menlo Park,CA,94025
+9040,Denver,CO,80220
+1388,Pittsford,NY,14534
+1548,Harrisburg,IL,62946
+705,western springs,IL,60558
+1590,Williamsville,NY,14231
+1654,Denver,CO,80246
+1435,Denver,CO,80210
+869,Portland,OR,97201
+1315,Egg Harbor,WI,54209
+1571,"Northbrook, IL",IL,60062
+1451,Breckenridge,CO,80424
+2,Denver,CO,80224
+1390,Los Altos,CA,94024
+9016,Santa Fe,NM,87507
+658,juno beach,FL,33408
+1659,atherton,CA,94027
+602,New HOpe,PA,18938
+697,Los Angeles,CA,90038
+914,Bronxville,NY,10708
+1172,Woodland Hills,CA,91367
+576,floral park,NY,11002
+915,Long Beach,CA,90803
+909,Simi Valley,CA,93063
+934,Renton,WA,98055
+572,Los Angeles,CA,90069
+743,saint petersburg,FL,33704
+685,Poulsbo,WA,98370
+1156,Youngstown,NY,14174
+727,woodland hills,CA,91367
+655,Kelso,WA,98626
+566,Los Angeles,CA,90026
+625,Colorado Springs,CO,80909
+913,new york,NY,10013
+948,new york,NY,10019
+1171,Park City,UT,84098
+569,bethlehem,PA,18015
+734,Pacific Palisades,CA,90272
+701,Garden City,NY,11530
+723,Scottsdale,AZ,85258
+938,Canton,MI,48187
+923,Madison,CT,06443
+744,Encino,CA,91436
+645,Birmingham,AL,35259
+661,Minneapolis ,MN,55401
+615,Winter Park,FL,32789
+912,Port Jervis,NY,12771
+894,Elk Grove,CA,95624
+330,Pelican Rapids,MN,56572
+940,fayetteville,GA,30215
+905,Hermosa Beach,CA,90254
+594,Playa Vista,CA,90094
+1032,Cambridge,MA,02139
+643,Youngstown,NY,14174
+588,PISCATAWAY,NJ,08854
+895,Southampton,NY,11968
+1167,South Bend,IN,46613
+567,mountain view,CA,94041
+281,Cranford,NJ,07016
+592,pacific palisades,CA,90272
+953,Encino,CA,91316
+1125,Avon,CT,06001
+302,Wheat Ridge,CO,80033
+600,Fort Worth,TX,76053
+590,Hilton Head,SC,29926
+927,Los Angeles ,CA,90026
+1111,brooklyn,NY,11238
+1173,Antioch,CA,94531
+580,Los Angeles,CA,90028
+644,ames,IA,50010
+916,San dimas ,CA,91773
+1129,Salt Lake City,UT,84103
+607,Madison,CT,06443
+578,Boston,MA,02116
+1130,Louisville ,KY,40220
+571,jupiter,FL,33458
+611,new york,NY,10107
+926,Madison,WI,53705
+616,Coral Springs,FL,33067
+582,Danville,CA,94506
+603,Little Rock,AR,72204
+334,Dobbs Ferry,NY,10522
+568,Los Angeles ,CA,90046
+903,Montgomery,IL,60538
+596,Coral Springs,FL,33071
+933,Los Angeles,CA,90020
+575,Maplewood,NJ,07040
+595,RICHMOND,VA,23219
+1150,New York,NY,10029
+717,San Diego,CA,92138
+899,Briarcliff Manor,NY,10510
+900,Austin,TX,78750
+996,Montclair,NJ,07042
+930,Los Angeles,CA,90065
+679,Montgomery,IL,60538
+897,weston,FL,33326
+901,Upper Montclair,NJ,07043
+1434,Denver,CO,80211
+892,Cambridge,MA,02138
+1396,Charlotte,NC,28277
+1356,Stamford,CT,06903
+1382,Camarillo,CA,93012
+1418,Centennial,CO,80112
+584,Upper Saddle River,NJ,07458
+562,New York,NY,10028
+1155,Santa Fe,NM,87506
+795,Fort Worth,TX,76116
+519,Imperial Beach,CA,91932
+1374,Wheaton,IL,60187
+1506,Austin,TX,78731
+322,Lafayette,CA,94549
+1004,Norwood,NJ,07648
+1493,Boca Raton,FL,33496
+1334,Golden,CO,80402
+1298,Denver,CO,80238
+5,Summerville,SC,29483
+1353,Golden,CO,80403
+838,san anselmo,CA,94960
+633,Emerald Hills,CA,94062
+1162,Carlsbad,CA,92009
+1289,carthage,TN,37030
+543,Lebanon,NJ,08833
+1258,SHORELINE,WA,98177
+1408,Bloomfield Hills,MI,48302
+700,Huntington,NY,11743
+1613,Houston,TX,77098
+865,Grayslake,IL,60030
+724,San rafael,CA,94903
+1401,Houston,TX,77005
+1394,Arvada,CO,80003
+632,San Rafael,CA,94903
+1101,Saint Louis,MO,63105
+1335,Rochester,NY,14626f
+1174,Fort Lauderdale,FL,33316
+81,Boulder,CO,80304
+87,Denver,CO,80210
+1417,Potomac,MD,20854
+1342,Del Mar,CA,92014
+1363,Whitefish Bay,WI,53211
+1351,Denver,CO,80247
+1389,Saint Louis,MO,63117
+1371,Henderson,NV,89012
+1409,Charlotte,NC,28211
+1330,Atlanta,GA,31126
+1391,Las Vegas,NV,89134
+1365,Castle Rock,CO,80108
+1332,Piedmont,CA,94611
+622,Carmel,CA,93921
+1387,Sunnyvale,CA,94087
+1415,Chicago,IL,60610
+1331,tiburon,CA,94920
+1414,Denver,CO,80210
+1381,Daly City,CA,94015
+1411,Cupertino,CA,95014
+799,Tiburon,CA,94920
+1562,Denver,CO,80237
+1468,Palo Alto,CA,94301
+1499,Alpharetta,GA,30005
+720,New York,NY,10022
+1452,Sedona,AZ,86351
+1569,New Hartford,NY,13413
+1477,Inverness,IL,60067
+1139,Longmont ,CO,80504
+765,Shelley,ID,83274
+829,Stamford,CT,06903
+1523,Monument,CO,80132
+1475,Delray Beach,FL,33484
+1196,Los Altos,CA,94022
+1573,Pleasanton,TX,78064
+1530,Highlands Ranch,CO,80126
+1536,Glencoe,IL,60022
+1553,Denver,CO,80210
+626,Centennial,CO,80122
+443,Cherry Hills Village,CO,80113
+613,Windsor,CO,80550
+608,Denver,CO,80206
+9003,Church Hill,MD,21623
+1515,Randolph,NJ,07869
+84,Charlotte,NC,28207
+798,denver,CO,80210
+797,Philadelphia,PA,19106
+709,Seattle,WA,98136
+9076,Highlands Ranch,CO,80129
+1610,Palo Alto,CA,94301
+503,Matthews,NC,28104
+100,Angwin,CA,94508
+1354,Sacramento,CA,95864
+1481,Denver,CO,80207
+12,Burlington,NC,27217
+1596,Bainbridge Is,WA,98110
+1001,Boca raton,Fl,33496
+1345,Los Altos,CA,94024
+1098,Denton,TX,76209
+1095,Burleson ,TX,76028
+1096,Dallas,TX,75205
+1094,Granbury,TX,76049
+1090,Benbrook ,TX,76126
+1092,Irving,TX,75061
+398,Fort Worth,TX,76107
+351,Greenville,DE,19807
+61,Eugene,OR,97402
+485,WOODSIDE,CA,94062
+328,Gloucester,MA,01930
+630,San Francisco,CA,94129
+628,Saint Peter,MN,56082
+382,Clinton,IL,61727
+629,Mill Valley,CA,94941
+631,COLUMBIA,MD,21045
+617,La Grande,OR,97850
+637,La Grande,OR,97850
+205,Jersey City,NJ,07307
+462,Clinton,IL,61727
+1202,Carmel,CA,93922
+624,oakland,CA,94612
+95,Hartsdale,NY,10305
+627,Campbell Hall,NY,10916
+1231,Arvada,CO,80007
+1429,Denver,CO,80210
+1606,Alamo,CA,94507
+1618,Colleyville,TX,76034
+1338,Appleton,WI,54913
+1644,DENVER,CO,80205
+1479,Westcliffe,CO,81252
+1645,Denver,CO,80222
+657,Castle Rock,CO,80108
+463,Hickory Hills,IL,60457
+1533,Novato,CA,94949
+1542,durham,NC,27712
+1516,Portland,OR,97215
+1512,ATASCADERO,CA,93422
+1761,Middletown,DE,19709
+1271,Santa Clara,CA,95051
+1280,Denver,CO,80224
+826,San Antonio,TX,78256
+16,Denver,CO,80205
+1272,Carlsbad,CA,92013
+1121,Clinton,CT,06413
+1148,Littleton,CO,80128
+831,Denver,CO,80224
+474,Portland,OR,97215
+435,Happy Valley,OR,97086
+408,Atlanta,GA,30306
+25,Excelsior,MN,55331
+418,Everett,MA,02149
+660,McLean,VA,22101
+804,Denver,CO,80210
+803,Cambridge,MA,02141
+252,Lexington,KY,40513
+623,University Park,MD,20782
+808,St. Louis,MO,63117
+825,Brentwood,TN,37027
+737,San Miguel,CA,93451
+820,Centennial,CO,80015
+456,Webster,WI,54893
+772,Campbell,CA,95008
+337,Lafayette,CA,94549
+822,Highlands Ranch,CO,80126
+371,Saint Simons Island,GA,31522
+805,Englewood,CO,80111
+855,San Diego,CA,92109
+1372,Lakewood,CO,80228
+1215,New York,NY,10026
+770,Warrenton,VA,20187
+1594,hendersonville,NC,28739
+1204,Austin,TX,78759
+847,Washington,DC,20008
+1534,Denver,CO,80202
+1557,Denver,CO,80238
+1307,lincoln,NE,68516
+1159,Houston,TX,77019
+942,Park Ridge,IL,60068
+994,Houston,TX,77027
+1655,San Jose,CA,95129
+823,Rancho Santa Fe,CA,92067
+738,aventura,FL,33180
+1686,NYC,NY,10024
+775,Mount Kisco,NY,10549
+1685,Vista,CA,92084
+1006,Shrewsbury,MA,01545
+821,San Francisco,CA,94123
+819,Denver,CO,80210
+1444,New York,NY,10018
+1558,DENVER,CO,80220
+1123,Westminster ,CO,80021
+874,Miami Beach,FL,33140
+843,Port Washington,NY,11050
+423,SAN ANTONIO,TX,78240
+1069,tacoma,WA,98445
+790,Denver,CO,80231
+1532,WINDCREST,TX,78239
+1459,Boulder,CO,80304
+1488,Spokane,WA,99202
+1581,Oak Park,IL,60301
+1482,Norwich,VT,05055
+1442,San Antonio,TX,78209
+1507,Rego Park,NY,11374
+669,Dallas,TX,75240
+683,Santa Fe,NM,87501
+265,San Francisco,CA,94109
+682,Camas,WA,98607
+675,Briarcliff Manor,NY,10510
+550,Austin,TX,78703
+1349,Gary,IN,46403
+1047,Longmont,Co,80504
+1779,Menasha,WI,54952
+1733,Nashville,TN,37203
+1642,Chevy Chase,MD,20815
+1423,denver,CO,80230
+834,San Francisco,CA,94118
+842,Denver,CO,80210
+1766,Denver,CO,80206
+1376,Boulder,CO,80305
+1088,Saint Louis,MO,63143
+1531,Summerville,SC,29483
+1448,Summerville,SC,29483
+1601,Hinsdale,IL,60521
+1597,Waunakee,WI,53597
+1489,Glastonbury,CT,06033
+1268,Golden,CO,80401
+1578,Minneapolis,MN,55406
+259,Lincoln,CA,95648
+300,new york,NY,10003
+725,San Francisco,CA,94123
+531,Wynnewood,PA,19096
+726,San Francisco,CA,94121
+868,San Jose,CA,95161
+552,COLUMBIA,MD,21045
+242,Denver,CO,80210
+985,Wilbraham,MA,01095
+856,New York,NY,10004
+1135,Boise,ID,83702
+1589,elizabeth,CO,80107
+1646,Chevy Chase,MD,20815
+1420,Redondo Beach,CA,90277
+1419,Oconomowoc,WI,53066
+1424,Ross,CA,94957
+1422,Denver,CO,80237
+1421,Boca Raton,FL,33496
+945,Brooklyn,NY,11215
+998,Charleston,SC,29407
+898,Ruston,WA,98407
+1206,Wellesley,MA,02482
+1305,Atlanta,GA,30326
+521,Golden,CO,80401
+840,New York,NY,10025
+1124,Neptune,NJ,07753
+1755,Denver,CO,80203
+1131,Brooklyn,NY,11234
+1153,Sherman Oaks,CA,91403
+1140,New York,NY,10025
+1137,Burbank,CA,91504
+1126,Westerville,OH,43082
+1118,Chelsea,MI,48118
+952,SHERWOOD FOREST,CA,913253435
+728,Portland,OR,97229
+1277,New York,NY,10026
+1296,SF,CA,94127
+1567,Chapel Hill,NC,27516
+601,Minneapolis,MN,55404
+1050,Wellington,FL,33414
+1066,Evergreen,CO,80439
+1044,Delray Beach,FL,33446
+1056,Lenexa,KS,66216
+782,Denver,CO,80237
+179,Barrington Hills,IL,60010
+1239,Shelter island,NY,11964
+1527,Denver,CO,80211
+1538,Greenwood Village,CO,80111
+1716,Livingston,NJ,07039
+1669,Orinda,CA,94563
+1727,Denver,CO,80207
+1667,Menlo Park,CA,94025
+1369,Denver,CO,80210
+1403,White Plains,NY,10605
+1395,Denver,CO,80223
+1572,Denver,CO,80223
+1576,DENVER,CO,80223
+1518,Chicago,IL,60641
+1266,Brookline,MA,02446
+1428,Boca Raton,FL,33486
+1386,Mesa,AZ,85205
+1467,Potomac,MD,20854
+1620,Los Altos,CA,94024
+1224,Canby,OR,97013
+1443,Chilmark,Wiltshire,SP3 5BB
+719,orlando,FL,32819
+1229,Sausalito,CA,94965
+1203,San Francisco,CA,94115
+1251,Littleton,CO,80120
+1709,Pebble Beach,CA,93953
+1337,Summerville,SC,29483
+702,Tucker,GA,30087
+1341,Atlanta,GA,30318
+1344,Greensburg,pa,15601
+1343,Wilton,CT,06897
+921,Columbia,Sc,29223
+1340,washington,DC,20016
+610,Narberth,PA,19072
+999,Pebble Beach,CA,93953
+1385,Denver,CO,80220
+529,Los Gatos,CA,95032
+972,Jamaica Plain,MA,02130
+1333,San Diego,CA,92101
+639,Atlanta,GA,30342
+1352,Santa Rosa,CA,95409
+419,San Francisco,CA,94127
+1455,Park city,UT,84098
+1615,Aurora,CO,80012
+1314,Denver,CO,80224
+239,Brighton,CO,80602
+742,San Francisco,CA,94118
+692,San Francisco,CA,94121
+1586,Arden,NC,28704
+1788,Omak,WA,98841
+1105,Scottsdale,AZ,85251
+1789,Nashville,TN,37204
+177,CASCADE,ID,83611
+1785,Los Angeles,CA,90045
+1559,Buffalo Grove,IL,60089
+1554,Bend,OR,97702
+783,Kennett Square,PA,19348
+1551,Flanders,NJ,07836
+1189,Cramerton,NC,28032
+1549,CHILMARK,MA,02535
+1638,Foster City,CA,94404
+561,Beverly,MA,01915
+1484,Lake Geneva,WI,53147
+1154,Houston,TX,77056
+845,Knoxville,TN,37919
+1406,PIEDMONT,CA,94611
+1186,aurora,CO,80016
+853,Houston,TX,77024
+991,lexington,MA,02421
+1083,HERMON,ME,04401
+880,Bridgehampton,NY,11932
+939,Hillsborough,CA,94010
+989,Denver,CO,80209
+835,Brooklyn,NY,11215
+908,Mamaroneck,NY,10543
+937,Denver,CO,80220
+910,New York,NY,10018
+884,towaco,NJ,07082
+919,Briarcliff Manor,NY,10510
+935,Cross River,NY,10518
+920,Houston,TX,77057
+981,NEWTON,MA,02459
+886,Mendham,NJ,07945
+936,"Castle Rock,",CO,80108
+878,Aberdeen,NJ,07747
+907,Yonkers,NY,10710
+881,Point Pleasant,NJ,08742
+1214,highland park,IL,60035
+1525,Rockville,MD,20852
+1119,San Francisco,CA,94111
+1076,tacoma,WA,98417
+1120,San Francisco,CA,94117
+1122,Denver,CO,80220
+1511,Greenwood Village,CO,80111
+698,Castle Rock,CO,80108
+1691,Trenton,MO,64683
+883,Chicago,IL,60610
+335,San Francisco,CA,94117
+750,lancaster,PA,17601
+583,New York,NY,10003
+648,WARMINSTER,PA,18974
+760,Golden Valley,MN,55427
+593,Vienna,VA,22182
+756,Brooklyn,NY,11211
+665,New York,NY,10028
+619,Narberth ,PA,19072
+650,New York,NY,10017
+652,Astoria,NY,11105
+748,New York,NY,10075
+828,Chicago,IL,60657
+667,New city,NY,10956
+806,Scarsdale,NY,10583
+777,Wyckoff,NJ,07481
+776,Wyckoff,NJ,07481
+827,New York,NY,10016
+585,New York,NY,10025
+757,Herzogenaurach,BY,91074
+807,Philadelphia ,PA,19147
+758,Philadelphia,PA,19147
+774,Brooklyn ,NY,11215
+1696,Penns Neck,NJ,08540
+1697,North York,ON,M2P 1W1
+1114,Denver,CO,80238
+450,Roseville,CA,95661
+739,Wilton,CT,06897
+992,Pomfret Center,CT,06259
+1237,Aurora,CO,80016
+1164,San jose,CA,95120
+508,Sartell,MN,56377
+988,St louis,MO,Z63105
+1234,Canby,OR,97013
+620,Cheshire,CT,06410
+103,Boston,MA,02118
+1030,Happy Valley,OR,97086
+1011,Boulder,CO,80305
+858,Charleston,SC,29413
+1061,Bailey,CO,80421
+860,Eat Points,GA,30344
+993,cambridge,MA,02138
+1734,Denver,CO,80224
+1737,Aurora,CO,80013
+1116,Lake Oswego,OR,97034
+1367,Kennett Square,PA,19348
+212,Brooklyn,NY,11201
+1108,Rockport,ME,04856
+1074,Rockville,MD,20852
+975,North Andover ,MA,01845
+1106,Framingham,MA,01701
+1274,College Park,GA,30337
+1393,Scottsdale,AZ,85255
+482,Leesburg,VA,20176
+291,New York,NY,10024
+1157,clarendon hills,IL,60514
+1255,Littleton,CO,80120
+1029,San Francisco,CA,94115
+1040,Lone Tree,CO,80124
+1072,Los Altos,CA,94022
+542,Greenwood Village,CO,80112
+943,Washington,DC,20008
+1059,Parker,CO,80138
+1073,Redmond,WA,98052
+1041,Franklin,TN,37067
+171,San Francisco,CA,94110
+1060,Denver,CO,80202
+1007,HARTSDALE,NY,10530
+1002,Chicago,IL,60610
+621,Lake Barrington,IL,60010
+589,Windsor,CO,80550
+605,ca,CA,92270
+604,New York,NY,10003
+647,san rafael,CA,94903
+649,Boulder,CO,80304
+476,Kirksville,MO,63501
+574,Carlsbad,CA,92013
+573,Chicago,IL,60661
+606,washington,DC,20016
+553,New York,NY,10128
+609,Los Altos,CA,94024
+634,Santa Fe,NM,87501
+635,New York,NY,10075
+668,denver,CO,80203
+736,bethesda,MD,20817
+761,New York,NY,10023
+703,Palm Beach,FL,33480
+681,drjrykmt,MD,20715
+747,philadelphia,PA,19103
+746,Denver,CO,80203
+745,Holmen,WI,54636
+787,Dublin,GA,31021
+670,kidfvjodvj,PW,32932
+684,portland,OR,97122
+809,Bethesda,MD,20816
+89,San Francisco,CA,94121
+704,labette,KS,67356
+731,labette,KS,67356
+788,San Francisco,CA,94121
+812,charlotte,NC,28207
+811,AVENTURA,PA,33180
+810,Houston,TX,77079
+672,Centennial,CO,80016
+686,Scottsdale,AZ,85260
+690,Houston ,TX,77082
+689,Crested Butte,CO,81224
+688,Los Angeles,CA,90006
+687,blackfoot,IN,83221
+706,pebble beach,CA,93953
+789,Lititz,PA,17543
+813,Freeville,NY,13068
+751,McLean,VA,22101
+778,Hackettstown,NJ,07840
+815,Lynnwood,WA,98046
+691,Palo Alto,CA,94306
+779,Austin,TX,78701
+210,Cornelius,NC,28031
+844,san francisco,CA,94118
+949,Brooklyn,NY,11215
+859,San Francisco,CA,94109
+906,Los Altos,CA,94024
+1016,Foresthill,CA,95631
+356,san luis obispo,CA,93405
+870,Lakewood,NJ,08701
+922,Odessa,TX,79765
+848,Franklin,TN,37064
+951,Dallas,TX,75380
+862,Elizabethtown,PA,17022
+854,Miami Beach,FL,33139
+1034,Littleton,CO,80127
+832,Santa Clara,CA,95051
+851,New York,NY,10065
+833,Excelsior,MN,55331
+836,Bakersfield,CA,93309
+852,Lake Forest,CA,92630
+889,Douglasville,GA,30135
+973,Brookline,MA,02446
+970,Hanover,MA,02339
+969,Cambridge,MA,02140
+968,cambridge,MA,02138
+967,Nashua,NH,03063
+965,Concord,MA,01742
+964,Norway,ME,04268
+963,Portsmouth,NH,03801
+962,Brookline,MA,02446
+961,Chelsea,MA,02150
+960,exeter,NH,03833
+959,Marblehead,MA,01945
+958,brewster,MA,02631
+957,Wellesley,MA,02481
+956,Westford,MA,01886
+955,Newton,MA,02461
+954,Rockport,MA,01966
+872,Ventnor City,NJ,08406
+891,Pompano Beach ,FL,33069
+890,Parlin,NJ,08859
+365,Denver,CO,80209
+978,Fairfield,CT,06824
+976,Portland,OR,97212
+974,Bangor,ME,04401
+1046,Silverthorne,CO,90498
+1042,Ashburnham,MA,01430
+837,Lafayette,LA,70508
+873,McLean,VA,22101
+924,San Francisco,CA,94115
+979,Denver,CO,80210
+1051,Troy,MI,48084
+1049,Austin,TX,78757
+1048,Marion,MA,02738
+1057,Austin,TX,78759
+1055,Barrington hills,IL,60010
+1054,San Francisco,CA,94102
+1053,Paxton,MA,01612
+1052,Denver,CO,80207
+1113,cambridge,MA,02139
+1136,Chevy Chase,MD,20815
+1177,Ossining,NY,10562
+1195,Huntington,NY,11743
+1240,Fayette,ME,04349
+1191,Richfield,MN,55423
+1213,Ocracoke,NC,27960
+1212,Atlantic City,NJ,08401
+1211,Atlantic City,NJ,08401
+1210,Longport,NJ,08403
+1209,Chicago,IL,60614
+1077,Tacoma,WA,98406
+1102,Scarsdale,NY,10583
+1138,San francisco,CA,94117
+1241,Naples,FL,34108
+1216,Waco,TX,76703
+1078,Marblehead,MA,01945
+1179,Encampment,WY,82325
+1192,Dallas,TX,75204
+1245,San Rafael,CA,94903
+1244,Seattle,WA,98104
+1243,Los Altos,CA,94024
+1142,Rancho Santa Fe,CA,92067
+1160,RALEIGH,NC,27603
+1080,Bakersfield,CA,93309
+1079,south san francisco,CA,94080
+1103,Cary,NC,27518
+1181,Ross,CA,94957
+1180,Rockville,MD,20852
+1246,houston,TX,77024
+1161,San Francisco,CA,94123
+1182,Pahrump,NV,89060
+1248,eau claire,WI,54703
+1107,Lexington,MA,02421
+1144,Aurora,CO,80015
+1219,auburn,CA,95602
+1198,Warwick,RI,02886
+1115,San Francisco,CA,94118
+1127,Alexandria,VA,22307
+1285,Portland,OR,97221
+1270,Oconomowoc,WI,53066
+1269,Greenville,SC,29611
+1313,Saint Louis,MO,63105
+1273,Purcellville,VA,20132
+1287,charleston,SC,29401
+1317,Carbondale,CO,81623
+1275,Highlands Ranch,CO,80126
+1318,Tyler,TX,75703
+1326,Charlottesville,VA,22902
+1355,Charlotte,NC,28211
+1350,New bern,Nc,28562
+918,Portland,OR,97225
+1086,Austin,TX,78731
+1278,Parker,CO,80138
+1319,San Francisco,CA,94129
+1464,Atlanta,GA,30319
+1463,Novato,CA,94949
+1227,Santa Fe,NM,87505
+1473,WIlson,WY,83014
+1375,santa barbara,ca,93110
+1474,Delhi,LA,71232
+1294,San Francisco,CA,94123
+1454,Chevy Chase,MD,20815
+1476,Jersey City,NJ,07302
+1117,Atlanta,GA,30309
+1439,Moline,IL,61265
+214,Hayden Lake,ID,83835
+1097,San Jose,CA,95125
+1392,Nashville,TN,37215
+1449,Portola Valley,CA,94028
+1561,Toledo,OH,43615
+1577,Billings,MT,59101
+1490,Cave Creek,AZ,85327
+1495,Tallulah,LA,71282
+1494,Corona Del Mar,CA,92625
+1492,Bloomington,IN,47403
+1514,Burr Ridge,IL,60527
+1513,"Atlanta, Ga",GA,30327
+1543,Denver,CO,80206
+1496,New Bern,NC,28562
+1498,Armonk,NY,10504
+1497,Midland,TX,79705
+1500,Menlo Park,CA,94025
+350,SAn Fransisco,CA,94115
+1380,Hattiesburg,MS,39402
+1447,Stamford,CT,06903
+1539,Fargo,ND,58102
+1570,Denver,CO,80223
+1580,Winston Salem,NC,27106
+1579,Washington,DC,20016
+1552,Fort Worth,TX,76108
+1563,Denver,CO,80210
+1540,Chicago,IL,60610
+1564,San Antonio,TX,78204
+1528,BOSTON,MA,02210
+1535,Charleston,SC,29407
+1582,New York,NY,10019/
+1316,Mill Valley,CA,94941
+1608,Short Hills,NJ,07078
+1647,Ann Arbor,MI,48107
+1537,Minnetonka,MN,55345
+1609,Denver,CO,80238
+1635,New York,NY,10004
+1634,New York,NY,10004
+1633,New York,NY,10004
+1632,New York,NY,10004
+1631,New York,NY,10004
+1630,New York,NY,10004
+1629,New York,NY,10004
+1587,San Francisco,CO,941025032
+1595,Modesto,CA,95355
+1617,perkasie,PA,18944
+1602,Minnetonka,MN,55343
+1336,Hunts Point,WA,98004
+1690,Stratton,CO,80836
+794,Berkeley Springs,WV,25411
+1757,Huntington Beach,CA,92658
+1723,Dallas,TX,75218
+1738,Youngstown,OH,44515
+1758,miami,FL,33127
+1670,Fort Myers,FL,33901
+1760,Apopka,FL,32712
+1724,Reno,NV,89511
+1762,Washington,DC,20008
+1764,Winston Salem,NC,27106
+1763,Hopkinton,MA,01748
+1692,North York,ON,M2P 1W1
+1765,Santa Rosa,CA,95409
+1767,Napa,CA,94558
+1656,Seattle,WA,98121
+1674,Pacific Grove,CA,93950
+1740,Dallas,TX,75206
+1739,Alexandria,VA,22308
+1768,Melrose Park,PA,19027
+1702,Whiting,NJ,08759
+1769,Wheat Ridge,Co.,80215
+1786,Sunnyvale,CA,94087
+1235,Ormond Beach,FL,32174
+1778,Saint Petersburg,FL,33704
+1777,Great Neck,NY,11025
+1081,nashua,NH,03063
+1501,Aurora,CO,80016
+1657,Seeley Lake,MT,59868
+1517,Montclair,NJ,07043
+1205,Santa Fe,NM,87505
+1522,PENN VALLEY,CA,95946
+1675,Bryn Mawr,PA,19010
+1147,Houston,TX,77056
+1308,Orinda,CA,94563
+1425,Evergreen,CO,80439
+740,Edgartown,MA,02539
+1163,jaunda city,IA,50003
+1310,Eastchester,NY,10709
+1545,San Francisco,CA,94105
+1703,asdasdas,GA,30303
+925,Ridgewood,NJ,07450
+1320,San Francisco,CA,94118
+1457,Houston,TX,77005
+638,Enid,OK,73703
+791,Charleston,SC,29401
+548,Eagle,CO,81631
+1250,Wyommissing,PA,19610
+1379,NEWBURY PARK,Ca,913205334
+694,festge,IN,83701
+693,sfsdsd,OK,74004
+1603,Minnetonka,MN,55343
+1300,Denver,CO,80220
+1426,San Rafael,CA,94901
+882,Mountain View,CA,94040
+1165,Houston,TX,77001
+1311,Gettysburg,PA,17325
+1541,Newport Coast,CA,92657
+1176,soledad,CA,93960
+1183,Issaquah,WA,98027
+1321,Denver,CO,80206
+793,Aurora ,CO,80018
+983,North Falmouth,MA,02556
+982,Lowell,MA,01852
+7,Houston,TX,77005
+1058,North Bend,OR,97459
+1362,St Louis,MO,63130
+1082,san diego,CA,92110
+1502,Dallas,TX,75205
+695,shreveport,LA,71106
+707,Moraga,CA,94556
+1676,HARGRAVE,,IP29 3ZR
+1612,Lewisburg,WV,24901
+753,Sunnyvale,CA,94089
+1166,juragan city,IA,41214
+1704,Oklahoma City,OK,73120
+1185,Atherton,CA,94027
+1184,San Francisco,CA,94109
+780,Wasilla,AK,99623
+1222,Pleasanton,CA,94566
+1221,Austin,TX,78703
+1220,Paradise Valley,AZ,85253
+1427,Washington,DC,20037
+816,Lafayette,CA,94549
+1253,Lakewood,CO,80228
+1252,Portland,OR,97212
+1653,Lakewood,CO,80227
+839,Los Altos,CA,94023
+1503,Sacramento,CA,95818
+9004,Cupertino,CA,95014
+1149,americus,GA,31709
+1681,Ames,IA,50014
+577,Columbia,MD,21045
+762,Palatine,IL,60067
+928,Winston-Salem ,NC,27104
+1726,Columbus,OH,43204
+987,Denver,CO,80210
+986,Lexington,MA,02421
+718,Minneapolis,MN,55410
+1648,Shavano Park,TX,78249
+1254,Tarrytown,NY,10591
+1364,houston,tx,77019
+1660,Lakewood,CO,80232
+696,Gallatin,TN,37066
+512,San Francisco,CA,94118
+1787,Plantation,FL,33325
+1309,San Francisco,CA,94129
+1436,Saratoga,CA,95070
+1687,Lititz,PA,17543
+781,San Diego,CA,92107
+1469,Fairview,TX,75069
+659,Godfrey,IL,62o35
+818,Boulder,CO,80305
+817,University Place ,WA,98467
+1063,parker,CO,80138
+1084,Boston,MA,02138
+1261,Auburn,CA,95602
+1504,Barrington Hills,IL,60010
+1781,Des moines,IA,50321
+1668,Rio Rancho,NM,87144
+597,Boca Raton,FL,33496
+1197,Maple Glen,PA,19002
+1458,Atlanta,GA,30326
+1225,Saratoga,CA,95070
+1649,Cornelius,NC,28031
+662,ijpgjrogkrege,MH,45356
+1064,Wellington,FL,33414
+1585,PALM SPRINGS,CA,92262
+1262,northbrook,IL,60062
+1281,Santa Barbara,CA,93110
+857,Delray Beach,FL,33445
+990,Carlisle,MA,01741
+1607,Los Angeles,CA,90027
+1677,POTOMAC,MD,20854
+875,Denver,CO,80231
+598,Lenox,MA,01240
+764,Monterey,CA,93950
+763,asheville ,NC,28801
+1555,North Bend,OR,97459
+612,San Jose,CA,95125
+941,New York,NY,10011
+1200,Seattle,WA,98105
+1199,Portland,OR,97217
+1328,Santa Fe,NM,87504
+642,Denver,CO,80210
+641,lapine,OR,97739
+1470,lake barrington,IL,60010
+1743,Charlotte,NC,28270
+1065,St.Louis,MO,63105
+1085,SF,CA,94115
+1505,Mesa,AZ,85205
+1588,Denver,CO,80202
+1662,Oakland,CA,94612
+1782,AUSTIN,TX,78731
+1519,Houston,TX,77005
+1301,Pacific Grove,CA,93950
+1679,Highlands Ranch,CO,80130
+876,Santa Rosa,CA,95404
+1437,Nehalem,OR,97131
+1699,Carrboro,NC,27510
+1201,Wheaton,IL,60189
+1643,Denver,CO,80206
+1565,Philadelphia,PA,19102
+1339,Pacific Grove,CA,93950
+663,Setauket,NY,11733
+1067,Margate City,NJ,08402
+1256,Maple Glen,PA,19002
+1483,Sedona,AZ,86351
+549,Hayes,VA,23072
+1399,Alexandria,VA,22308
+1524,Albany,NY,12208
+1128,Los Altos,CA,94022
+599,Bloomfield Hills,MI,48302
+767,Medway,MA,02053
+931,Maitland,FL,32751
+1323,Austin,TX,78746
+223,Louisville,CO,80027
+1112,Tarrytown,NY,10591
+1728,Salt lake city,UT,84124
+1745,El Paso,TX,79936
+664,Hopkinton,MA,01748
+1070,University Place,WA,98467
+1068,Puyallup,WA,98375
+1257,Camden,ME,04843
+1771,Charlotte,NC,28203
+1109,corte madera,CA,94925
+1400,Riverwoods,IL,60015
+1599,margate,NJ,08402
+1407,Midland,TX,79705
+1152,Austin,TX,78731
+1431,Mooreaville,NC,28117
+1430,boston,MA,02210
+1169,koalas,FL,49511
+896,Park City,UT,84060
+1178,The Hills,TX,78738
+932,Berkeley,CA,94708
+1187,Plainfield,IL,60586
+1729,Davenport,IA,52803
+995,Lafayette,LA,70508
+1228,Menlo Park,CA,94025
+1747,Eugene,OR,97405
+1746,Manchester,VT,05254
+1600,Downers grove,IL,60515
+708,Atlantic Highlands ,NJ,07716
+1302,Milton,MA,02186
+1683,Brooklyn,NY,11204
+1688,mill valley,CA,94941
+771,Santa Fe,NM,87505
+1312,Kennett Square,PA,19348
+202,Portland,OR,97239
+1650,San Antonio,TX,78254
+1087,houston,TX,77057
+1264,merrick,NY,11566
+1783,Austin,TX,78704
+390,ENGLEWOOD,CO,80113
+1132,Doylestown,PA,18901
+1529,NEW YORK,NY,10006
+1604,Chevy Chase,MD,20815
+1689,Portola Valley,CA,94028
+1619,Cincinnati,OH,45244
+1188,Kennett Square,PA,19348
+1718,San Antonio,TX,78209
+614,chappaqua,NY,10514
+944,Denver,CO,80220
+997,North Andover,MA,0.01845
+1373,Seattle,WA,98118
+1089,San Francisco,CA,94123
+713,Houston,TX,77027
+712,Oohioh,OH,43001
+711,labette,KS,67356
+710,labette,KS,67356
+729,Columbia,MD,21045
+864,Parker,CO,80134
+733,san francisco ,CA,94118
+1432,Grand Junction,CO,81501
+1446,Aventura,FL,33180
+1550,toronto,ON,m4v1a3
+618,Alpharetta,GA,30022
+1730,RUMFORD,RI,02916
+796,Palo Alto,CA,94306
+1265,Chevy Chase,MD,20815
+699,Hillsborough ,CA,94010
+715,victoria,NY,11223
+714,brooklyn,NY,11223
+866,lakewood,WA,98498
+46,Decatur,GA,30030
+1170,santa fe,NM,87508
+1175,napa,CA,94558
+1546,MEDFORD,OR,97504
+755,Cincinnati,OH,45208
+1324,Willowbrook,IL,60527
+785,Emmaus,PA,18049
+1000,Seattle,WA,98115
+488,lewes,DE,19958
+1774,San Francisco,CA,94129
+1773,Pacific Grove,CA,93950
+676,HIGHLAND PARK,IL,60035
+1093,addison,TX,75001
+1091,Dallas,TX,75219
+1267,Littleton,CO,80120
+1508,Larchmont,NY,10538
+1410,Boulder,CO,80304
+1303,Prospect,KY,40059
+877,s. barrington,IL,60010
+1433,Kula,HI,96790
+1547,Oakland,CA,94610
+1190,Bellaire,TX,77401
+786,oneonta,NY,13820
+1566,Washington,DC,20018
+824,Livingston,TX,77399
+1075,Framingham,MA,01701
+1383,Houston,TX,77024
+1509,Belmont,MA,02478
+1591,Inverness,IL,60067
+1664,Shorewood,WI,53211
+1663,FORT WAYNE,IN,46814
+1784,Washington,DC,20016
+1402,Corona del Mar,CA,92625
+730,Clive,IA,50325
+1304,Houston,TX,77098
+887,Summerville,SC,29483
+749,Castle Rock,CO,80104
+902,Tarrytown,NY,10591
+1710,Sarasota,FL,34243
+1637,Charlotte,NC,28203
+1721,Birmingham,AL,35260
+946,Brooklyn,NY,11215
+537,Highland Park,IL,60035
+1732,Centreville,MD,21617
+1749,Salinas,CA,93908
+1486,Aiken,SC,29803
+1526,Oklahoma City,OK,73120=3785
+1134,Ferndale,MI,48220
+888,Los Altos,CA,94024
+1701,Carmel,CA,93923
+1700,Cottage Grove,OR,97424
+244,santa fe,NM,87501
+947,San Antonio,TX,78257
+1568,Bloomington,IL,61704
+646,Helena,MT,59624
+184,San Francisco,CA,94111
+801,Glen Ridge,NJ,07028
+666,Ann Arbor,MI,48105
+1776,Decatur,GA,30030
+677,Hunts Point,WA,98004
+1099,Appleton,WI,54913
+1384,Piedmont,CA,94611
+587,Huntington,NY,11743
+586,Reno,NV,89519
+1711,asdasd,GA,30303
+504,Bend,OR,97702
+1722,Woodbury,MN,55125
+1207,Kirkwood,MO,63122
+74,Creve Coeur,MO,63141
+1238,Plains,PA,18705
+1100,Cheyenne,WY,82009
+1712,dasdasd,GA,30303
+492,Boca Raton,FL,33496
+830,San Anselmo,CA,94960

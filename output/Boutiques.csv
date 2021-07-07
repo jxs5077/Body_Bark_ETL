@@ -1,0 +1,405 @@
+boutique_id,boutique_name,street_address,city,state,zip
+0,A City Obsession,500 12th St. #128,Oakland,CA,94607
+1,A Line Boutique,2000 S Acoma St.,Denver,CO,80223
+2,Abigail Inc.,1216 Porta Ballena,Alameda,CA,94501
+3,Abode,2416 Magowan Dr.,Santa Rosa,CA,95405
+4,Adobe East,303 Southeast 17th Street #106,Ocala,FL,34471
+5,Alene Women's Boutique-Closed,502 N. Pine Island Rd.,Plantation,FL,33324
+6,Alice Becker,806 Grant Ave.,Novato,CA,94945
+7,"Allied Feeds, Inc.",1551 N. Esplanade,Cuero,TX,77954
+8,American Clothing Gallery,100 N 8th St.,Boise,ID,83702
+9,Ann Marie - CLOSED,"Ann Marie
+4000 East Madison",Seattle,WA,98112
+10,Aquamarine,114 2nd Street,Lewes,DE,19958
+11,Aromatherapy Closed,"Aromatherapy
+326 Main St.",Huntington,NY,11743
+12,Artemisia,117 Bent St,Taos,NM,87571
+13,Artwear,185 Massachusetts Ave.,Arlington,MA,02474
+14,At Ease,6325 Falls of Neuse Road,Raleigh,NC,27615
+15,B. Real Women's Apparel,PO Box 5096,Carmel,CA,93921
+16,Barbara and Company,1067 S. Gaylord St.,Denver,CO,80209
+17,Barbara Eclectic CLOSED,"Barbara Eclectic
+594 Valley Rd.",Upper Montclair,NJ,07043
+18,Basiques,14210 Overbrook Lane,Houston,TX,77077
+19,BB's Apparel and Boots,2340 East Murray Holladay Rd,Holladay,UT,84117
+20,Beautiful,120 W. Main St.,Grass Valley,CA,95945
+21,Bellagio Art to Wear,"Historic Biltmore Village
+5 Biltmore Plaza",Asheville,NC,28803
+22,Bellanova,222 96th Street,Stone Harbor,NJ,08247
+23,Betsy Prince,608 Brookwood Village,Birmingham,AL,35209
+24,Biba- In Collections,"Biba
+40 Hill Street",Southhampton,NY,11968
+25,Bill Paul Limited,112 W. Wisconsin Ave.,Neenah,WI,54956
+26,Birdies Lingerie,116 W 18th St,Kansas City,MO,64108
+27,BK & Company,983 Farmington Ave.,West Hartford,CT,06107
+28,Bleu Company,807 William Hilton Pkwy,Hilton Head Island,SC,29928
+29,Body of Santa Fe,"333 W Cordova Road, Ste 200",Santa Fe,NM,87505
+30,Bonne Nuit - Closed,"Bonne Nuit
+1387 N. Main Street",Walnut Creek,CA,94596
+31,Boulder Body Wear,"2660 Canyon Blvd., Suite A-1",Boulder,CO,80302
+32,Bra-La-La,8180 Maple Lawn Blvd.,Fulton,MD,20759
+33,Brenda's Clothing & Accessories,"Brenda Self
+584 Front Street, Suite 104",Natchitoches,LA,71457
+34,Britches of Concord,1 Eagle Square,Concord,NH,03301
+35,Brown House on H,5379 H St.,Sacramento,CA,95819
+36,Brownstein Smith,310 Carriage House Dr.,Jackson,TN,38305
+37,Brush Creek Dry Goods - CLOSED,PO 192,Edwards,CO,81632
+38,C. S. Post,"Shirley Comeau
+308 W Mill St.",Plainville,KS,67663
+39,Caldwell's (Closed),2610 NE Village Lane,Seattle,WA,98105
+40,Candlelight Shoppe,407 Main St.,Ridgefield,CT,06877
+41,Canopy Blue,3121 E. Madison St. STe 103,Seattle,WA,98112
+42,Capra & Cavelli,"3500 Jefferson, Suite 110",Austin,TX,78731
+43,Carbon - CLOSED,"Carbon
+2643 Connecticut Ave. NW",Washington,DC,20008
+44,Carmel Bay Company,"PO Box 5606
+Ca",Carmel By the Sea,CA,93921
+45,Carrie Anne,2727 Revere St. #4046,Houston,TX,77098
+46,Caruggi's,"5000 Westheimer
+Suite 630",Houston,TX,77056
+47,Cassandra Salon and Spa,225 Daniel Webster Highway,Nashua,NH,03060
+48,Century 21 Department Stores,"Attn: Accounts Payable Department
+22 Cortlandt Street",New York,NY,10007
+49,Cher's Unique Boutqiue,"555 Peters Ave, Ste 120",Pleasanton,CA,94566
+50,Chickie's Daughter,901 N Bethlehem Pike,Spring House,PA,19477
+51,Clairee's Closet,107 N. Johnson,Mineola,TX,75773
+52,Coco's by M. Cline,"Keena C. Ledford
+500 Grand Blvd. # K101",Miramar Beach,FL,32550
+53,Cole Couture,1240 Thomasville Rd. #102,Tallahassee,FL,32303
+54,Colorado Co-op,"315 N. Tejon St.
+Springs,",Colorado,CO,80903
+55,Cotton Club,"Cotoen Club
+3941 San Felipe",Houston,TX,77027
+56,Crazy Scrubs,2751 W. Oxford Ave. Ste. 4,Englewood,CO,80110
+57,Cricket Clothing Company,2814 2nd Ave. North,Billings,MT,59101
+58,Crossroads Boutique,14 W 2nd St,Greensburg,PA,15601
+59,Daisy Clover,"Bary W Hoemann
+10830 Kennerly Rd",St.Louis,MO,63128
+60,Deborah Kent's,"2120 A South Dale Mabry Highway
+Florida",Tampa,FL,33629
+61,Dena's Shop on the Corner,123 S Hemlock St.,Cannon Beach,OR,97110
+62,Devon's Boutique,92 Second Street,Bandon,OR,97411
+63,Diana & Jeffries (Closed),1339 Madison Ave.,New York,NY,10128
+64,DIG (Closed),"Van Bolle
+89 Partition",St. Saugerties,NY,12477
+65,DinEa Boutique,2090 S. Grant St.,Denver,CO,80210
+66,Dolce Donna - Closed,"Dolce Donna
+175 Sunrock Drive",Folsom,CA,95630
+67,EB Barrett- Closed,"EB Barrett
+Ellen B. Grad
+1875 Palmer Ave.",Larchmont,NY,10538
+68,Eccentricity Inc,290 Fillmore St # 5,Denver,CO,80206
+69,Elements of Style - Closed,"Elements of Style
+258 Pharr Road",Atlanta,GA,30305
+70,Eon Studios/Fashion Boutique,825 Paseo Road,Colorado Springs,CO,80907
+71,Estilo,234 W. 2nd St.,Austin,TX,78701
+72,Everard's Clothing,"1802 Wisconsin Ave, NW",Washington,DC,20007
+73,Evey K (Closed),"EveyK
+200 N. Quebec St. Bldg 700, ste 111",Denver,CO,80230
+74,Excellence,148 Dominican Dr.,San Rafael,CA,94901
+75,F. Bianco,43 Highland Ave.,Warwick,RI,02886
+76,Faboo Fashion,PO Box 4829,Basalt,CO,81621
+77,Fairmont Scottsdale,"Attb: Accounts Payable
+7575 East Princess Dr.",Scottsdale,AZ,85255
+78,Fine Feathers - Closed,"University Place
+201 S. Estes Drive",Chapel Hill,NC,27514
+79,Fox's,79 Main St.,Mineola,NY,11501
+80,Frances Heffernan,810 Elm Street,Winnetka,IL,60093
+81,French Cuff Boutique - Bellaire,4048 Bellaire Blvd,Houston,TX,77025
+82,French Cuff Boutique - Woodway,6401 Woodway #127,Houston,TX,77057
+83,Freudian Slip,"5th Street Market
+248 East 5th St. Ave. Ste 15",Eugene,OR,97401
+84,Frock,4 Battery Park Ave.,Asheville,NC,28801
+85,Frolic (Closed),"Frolic
+Leslie White-Fad
+101 W. State St.",Kennett Square,PA,19348
+86,Gaby L's Boutique,74924 Country Club Dr.,Palm Desert,CA,92260
+87,Gaia,45 Miller St.,Winston-Salem,NC,27104
+88,Gaia Couture Closed,"Gaia Couture
+921 NW 23rd Ave",Portland,OR,97210
+89,Garbarini,3003 E. 3rd Ave.,Denver,CO,80206
+90,Georgie Girl - Closed,"Georgie Girl
+Now Jax Boutique
+Cynthia Harris
+239 Chelsea Ct.",Cherry Hill,NJ,08003
+91,Get Dressed,2501 Far Hills Avenue,Dayton,OH,45419
+92,Giddyup Jane,9670 Clayton Rd.,St. Louis,MO,63124
+93,Gitane Freedom of Style,334 State St,Los Altos,CA,94022
+94,Glass Boat,3226 W. Cary St.,Richmond,VA,23221
+95,Glow,70 West Court Square,Troy,AL,36081
+96,Golf Shop of Ft. Collins,4223 South Mason,Fort Collins,CO,80525
+97,Grand Duchess,400 W. International Airport Rd.,Anchorage,AK,49518
+98,Hampden Clothing,357 King St.,Charleston,SC,29401
+99,"Handle with Care, Chicago",1706 North Wells St.,Chicago,IL,60614
+100,Harriet's San Francisco,300 Fillmore St.,Denver,CO,80206
+101,Haute Chics of Austin,"Laurie Mertens
+8132 Amelia Cove",Austin,TX,78750
+102,Heidi Says,2426 Fillmore St.,San Francisco,CA,94115
+103,Heritage Apparel,"TSG Ski & Golf
+565 Mountain Village Blvd.",Telluride,CO,81435
+104,High Country Boutique & Gallery,937 Washington St. West,Lewisburg,WV,24901
+105,Horse Crazy Tack & Supply,1458 Clayton St.,Salt La,UT,84104
+106,Hotel Del Coronado,"Attn:Accounts Payable
+1500 Orange Ave.",Coronado,CA,92118
+107,Hysteria,"Nina Doherty
+3614 Windmoor Ct.",Chantilly,VA,20151
+108,I. C. London,4310 Sharon Rd. # T13,Charlotte,NC,28211
+109,Ibhana Creations,1079 Seven Locks Road,Rockville,MD,20854
+110,In The Country,PO BOX 885,Langley,WA,98260
+111,Indigo Chic Boutique,"Lynda M Pisuitelli
+124 South Ridge Street",Rye Brook,NY,10573
+112,Infatuation - Now Boutique 811,"Infatuation
+96 Liberty Ridge Rd.",Totowa,NJ,07512
+113,Intimacy Headquarters,3980 Dekalb Technology Parkway #760,Atlanta,GA,30340
+114,Intimacy Headquarters:Madison Ave.,3980 Dekalb Technology Parkway #760,Atlanta,GA,30340
+115,Intimacy on Madison Ave,"Intimacy Headquarters
+3980 Dekalb Technology Parkway #760",Atlanta,GA,30340
+116,Inverness Golf Shop,102 N. Roselle Rd.,Inverness,IL,60067
+117,J Hampton Clothing,2433 University Blvd,Houston,TX,77005
+118,J. Fermi,21 Western Ave.,Petaluma,CA,94952
+119,Jets Dream CLOSED,"Jets Dream
+212 Main Street
+Take name off mailing list",Greenport,NY,11944
+120,Joy's Uptown Style,110 SW 7th St.,Dundee,OR,97115
+121,Julian Gold Austin,4109 McCullough,San Antonio,TX,78212
+122,Julian Gold Corpus Christi,4109 McCullough,San Antonio,TX,78212
+123,Julian Gold Midland,4109 McCullough Ave.,San Antonio,TX,78212
+124,Julian Gold San Antonio,4109 McCullough,San Antonio,TX,78212
+125,Junella's  CLOSED,30 Main St.,Tiburon,CA,94920
+126,Kacia,795 F Woodlake Road,Kohler,WI,53044
+127,Karina on Canyon,656 Canyon Rd,Santa Fe,NM,87501
+128,Kiny Bis - Closed,"Kiny Bis
+3222 M St. NW #W203",Washington,DC,20007
+129,Kiwi,"Marlene Siegel
+119 7th Ave.",Brooklyn,NY,11215
+130,Knickers of Hyde Park,2726 Erie Ave.,Cincinnati,OH,45208
+131,Koi,"Linda Davis
+375 E. Montecito",Sierra Madre,CA,91024
+132,La Costa Resort & Spa,"Attn: Accounts Payable
+2100 Costa Del Mar Road",Darlsbad,CA,92009
+133,La Petite Coquette,51 University Place,New York,NY,10003
+134,Lacy Stuff Lingerie,405 S. Hunter,Aspen,CO,81611
+135,Lavender and Lace - Closed,"Lavender and Lace
+306 Libbie Avenue",Richmond,VA,23226
+136,Le Boudoir - Colorado  (Closed),29017 Hotel Way,Evergreen,CO,80439
+137,Le Tub (Closed),424 E. Cooper Ave.,Aspen,CO,81611
+138,Leavitt's Western Wear (Closed),"Leavitt's Western Wear
+PO Box 340",Sisters,OR,97759
+139,Leisure & Lace (Closed),"Leisure & Lace
+199 New Road, Suite 9",Linwood,NJ,08221
+140,Levy's,"3900 Hillsboro Rd., Suite 36",Nashville,TN,37215
+141,Lillies of the Field,"Jona Franklin
+1 South Main St.",Doylestown,PA,18901
+142,Lindisima,190 Bon Air Shopping Center,Greenbrae,CA,94904
+143,Lingerie Shoppe,2403 Montevallo Rd.,Birmingham,AL,35223
+144,Loehmann's Stores,"Accounts Payable Dept.
+2500 Halsey Street",Bonx,NY,10461
+145,Lola - Rye NY,80 Purchase Street,Rye,NY,10580
+146,Los Gato Co.,17 1/2 North Santa Cruz Ave.,Los Gatos,CA,95030
+147,Lounge Nevada,538 W. Plumb Lane Suite C,Reno,NV,89509
+148,Luna Boutique (Closed),3490 Sacramento Street,San Francisco,CA,94118
+149,M Penner Houston,1180-06 Uptown Park Blvd.,Houston,TX,77056
+150,M. Cline Designs,148-C Tupelo Courtyard,Miramar Beach,FL,32550
+151,Maggie B,2670 Via De La Valle #A-210,Del Mar,CA,92014
+152,Main Paige,542 Main St.,Grand Junction,CO,81501
+153,March Boutique,"Lynn Puro
+1207 Pleasantville Rd.",Briarcliff Manor,NY,10510
+154,Margie's Boutique,2156 Huntington Dr.,San Marino,CA,91108
+155,Mariel,3000 E. 3rd Ave. #8,Denver,CO,80206
+156,Mary's Boutique,3656 The Barnyard,Carmel,CA,93923
+157,Mela,18525 NE Marine Dr.,Portland,OR,97230
+158,Merle Norman,368 Merchant St.,Vacaville,CA,95688
+159,MidChix Event,Colorado,Denver,CO,00nan
+160,Midland Clothing Company,740 E Valley Rd,Basalt,CO,81621
+161,Midtown Tennis Club,1760 N. Hicks Rd.,Palantine,IL,60074
+162,Mieka -  In Collections,"Mieka
+8285 Jericho Tpke",Woodbury,NY,11797
+163,Milky Way,PO Box 784,Crested Butte,CO,81224
+164,Mimi's,"Mimi's on Union, LLC
+2133 Union St.",San Fransisco,CA,94122
+165,Mimi's Closet,307 High St,Chestertown,MD,21620
+166,Mirabella,1226 Main St.,St. Helena,CA,94574
+167,Moda Mi,140 E. Prospect  Ave.,Danville,CA,94526
+168,Molly's of Denver - CLOSED,"The Equitable Building
+1660 Stout Street",Denver,CO,80202
+169,Mooncake,1123 Briarcliff Rd.,Atlanta,GA,30306
+170,Muse Boutique,2411 W. Alabama St.,Houston,TX,77098
+171,Muse Intimates,"1876 Utica Square
+Suite 2C",Tulsa,OK,74114
+172,Mustard Seed - CLOSED,1227 1st St.,Napa,CA,94559
+173,Neiman Marcus ,Headquarters,Dallas,TX,00nan
+174,Neiman Marcus Direct,"(05001) Neiman Marcus Direct
+Fullfilment Warehouse 05001
+113 Customer Way",Irving,TX,75039
+175,N'etc,5005 France Ave.,Minneapolis,MN,55410
+176,NPR Samples,7800 E. Iliff Ave. Suite G,Denver,CO,80231
+177,"Options Gallery, Inc",126 Matheson Street,Healdsburg,CA,95448
+178,Orchids Aspen,"Orchids Lingerie
+302 South Galena St",Aspen,CO,81611
+179,Otto,354 7th Ave.,Brooklyn,NY,11215
+180,Over the Top,1866 First St.,Highland Park,IL,60035
+181,Paladino,444 Camino de las Animas,Santa Fe,NM,87505
+182,Parker Panache,19561 E. Main St.,Parker,CO,80138
+183,Peaches en Regalia,"1555 Camino del Mar, Suite 318",Del Mar,CA,92014
+184,Peppermill Hotel Reno,2707 S. Virginia St.,Reno,NV,89502
+185,Perch,122 E. Meadow Drive,Vail,CO,81657
+186,Perch Denver,2606 E 3rd Ave,Denver,CO,80206
+187,Philips Family Pharmacy,203 Depot St.,Delhi,LA,71232
+188,Physical Element,416 NW 12th Ave,Portland,OR,97209
+189,Piece Unique,4205 N 10th ST,Boise,ID,83702
+190,Pillow Talk of Paso Closed,"Pillow Talk of Paso
+1736 Hogan Pl.",Paso Robles,CA,93446
+191,Pine Creek,1099 South Gaylord Street,Denver,CO,80209
+192,PJ's Boutique,1509 S. Pearl,Denver,CO,80210
+193,Plum Alley,2032-D Veterans Blvd.,Dublin,GA,31021
+194,Pomegranate,1152 PROSPECT ST,LA JOLLA,CA,92037
+195,Portobello Road,55 Boylston St.,Chestnut Hill,MA,02467
+196,Posche,"99 W Ave.
+Allendale,",Allendale,NJ,07401
+197,Punch,3262 Franklin Ave.,Millbrook,NY,12545
+198,"Raffaele Furs, Ltd.",2817 Johnston Street,Lafayette,LA,70503
+199,Reruns,158 East Main St.,Port Jefferson,NY,11777
+200,Rolling Green Country Club,2525 E. Rand Road,Arlington Heights,IL,60004
+201,Romantiques Lingerie,51 University Avenue,Los Gatos,CA,95030
+202,Rosey's by Diane - Closed,8505 S Park Meadows Center Dr #2803,Lone Tree,CO,80124
+203,Ruthie'Z,495 Main St.,Armonk,NY,10504
+204,Sagamore Resort Emporium,"Cindy Keane, Boutqiue
+110 Sagamore Road",Bolton Landing,NY,12814
+205,Sandpiper-Closed,4300 Paces Ferry Rd.,Atlanta,GA,30339
+206,Sara Jane,1343 North Wells St.,Chicago,IL,60610
+207,Satin Camisole,217 Linden St.,Ft. Collins,CO,80524
+208,Serena's,74963 Hwy 11,Indian Wells,CA,92210
+209,Shannalee - Closed,313 Broadway N,Fargo,ND,58102
+210,SheShe Boutique,340 E. Main St.,Montrose,CO,81401
+211,Shine,6955 S. York St. Ste 412,Centennial,CO,80122
+212,Shoe Horn,317 Walnut Street,Newtonville,MA,02460
+213,"Shop Sixty Five, L.L.C.",1616 Walnut,Philadelphia,PA,19103
+214,Sidetracked,7 New Windsor Rd.,Westminster,MD,21157
+215,Sierra Trading Post,"Sierra Trading Post Accounts Payable
+Sierra Trading Post, Inc.
+5025 Campstool Rd",Cheyenne,WY,82007
+216,Silver Fox,837 42nd Street,Des Moines,IA,50312
+217,Simple Pleasures,500 South Country Trail,Charlestown,RI,02813
+218,Sister's Keeper,4715 12th Street,Greeley,CO,80634
+219,Smith's of Bermuda,6651 Old Dominion Dr.,McLean,VA,22101
+220,Snow Apparel,520 Main St Unit B1,Longmont,CO,80501
+221,Soft Surroundings,"Attn: Apparel Merchandising
+1100 N. Lindbergh Blvd",St. Louis,MO,63132
+222,Sophia Lustig Shop,124 10th St.,Toledo,OH,43624
+223,SportStyle,1233 Shelburne Rd.,South Burlington,VT,05403
+224,Statements,"Susan Deiner & Lisa Jaffe
+2118 N. E. 123rd",North Miami,FL,94123
+225,Stein Mart,"Stein Mart Corporate Buying Office
+1200 Riverplace Blvd.",Jacksonville,FL,32207
+226,Stein Mart:Stein Mart #104 Englewood,"(00953) Stein Mart Inc Dc
+2951 North Great Southwest Parkway
+Suite 160",Grand Prairie,TX,75050
+227,Stein Mart:Stein Mart #123 Dallas,"(00123) Stein Mart Inc
+6465 East Mockingbird Lane Ste 322",Dallas,TX,75214
+228,"Stein Mart:Stein Mart #124 Katy, TX","(00124) Stein Mart Inc
+1747 Fry Road",Katy,TX,77449
+229,Stein Mart:Stein Mart #132 San Antonio,"(00132) Stein Mart Inc
+18134 San Pedro",San Antonio,TX,78232
+230,"Stein Mart:Stein Mart #136 Brookfield, WI","(00136) Stein Mart Inc
+16950 West Bluemound Road",Brookfield,WI,53005
+231,"Stein Mart:Stein Mart #173 Mission Viejo, CA","(00173) Stein Mart Inc
+25282 Marquerite Parkway",Mission Viejo,CA,92692
+232,Stein Mart:Stein Mart #187 Las Vegas,"(00187) Stein Mart Inc
+8125 West Sahara Avenue",Las Vegas,NV,89117
+233,Stein Mart:Stein Mart #198 Rancho Cucamonga,"(00198) Stein Mart Inc
+10930 Foothill Boulevard",Rancho Cucamonga,CA,91730
+234,"Stein Mart:Stein Mart #199 Stevenson Ranch, Ca","(00199) Stein Mart Inc
+29455 Pico Canyon Road",Stevenson Ranch,CA,91381
+235,Stein Mart:Stein Mart #208 Tulsa,"(00208) Stein Mart Inc
+7827 East 91st Street",Tulsa,OK,74133
+236,Stein Mart:Stein Mart #296 Jenkintown,"Stein Mart Corporate Buying Office
+1200 Riverplace Blvd.",Jacksonville,FL,32207
+237,Stein Mart:Stein Mart #350 Folsom,"(00350) Stein Mart Inc.
+2725 East Bidwell Street",Folsom,CA,95630
+238,Stein Mart:Stein Mart #364 Sam Dimas,"(00364) Stein Mart Inc
+826 W. Arrow Hwy",San Dimas,CA,91773
+239,Stein Mart:Stein Mart #374 Watchung,"(00374) Stein Mart Inc.
+1511 Route 22 West",Watchung,NJ,07069
+240,Stein Mart:Stein Mart #378 Las Vegas,"(00378) Stein Mart Inc.
+2060 North Rainbow Blvd.",Las Vegas,NV,89108
+241,Stein Mart:Stein Mart #390 Aventure,"(00390) Stein Mart Inc.
+19915 Biscayne Blvd",Aventure,FL,33180
+242,"Stein Mart:Stein Mart #40 Metairie, LA","Stein Mart #40
+2840 Veterans Memorial Blvd.
+LA -",Metairie,,70002
+243,"Stein Mart:Stein Mart #66 Webster, TX","(00066) Stein Mart Inc
+19801 Gulf Freeway",Webster,TX,77598
+244,Stein Mart:Stein Mart #71 Indianapolis,"(00952) Stein Mart Inc Dc
+767 Douglas Hills Rd",Lithia Springs,GA,30122
+245,Stein Mart:Stein Mart #78 Dallas,"(00953) Stein Mart Inc Dc
+2951 North Great Southwest Parkway
+Suite 160",Grand Prairie,TX,75050
+246,Stephan Cori,108 The CrossRoads,Carmel,CA,93923
+247,Stephanie Horne,244 N Broadway,Milwaukee,WI,53202
+248,Stuarts Apparel,157 Main Street,Los Altos,CA,94022
+249,Styche,57 W. Lancaster Ave.,Admore,PA,19003
+250,Sunset Key Outpost,"Boutique
+245 Front Street",Key West,FL,33040
+251,Sunset Trading and Gifts,245 Front Street,Key West,FL,33040
+252,Susan Lee,1248A West Paces Ferry Rd NW,Atlanta,GA,30327
+253,Sylene of Washington,4407 S Park Ave.,Chevy Chase,MD,20815
+254,Taken for Granite CLOSED,409 Leetes Island Rd.,Stoney Creek,CT,06405
+255,Tara's,341 Main St,Delta,CO,81416
+256,Tessa LLC,1130 N. Blackburn,Inverness,IL,60067
+257,That Look,39 North Dean Street,Englewood,NJ,07631
+258,The Brass Trunk,402 Yates,Marshall,TX,75672
+259,The Carved Horse - Closed,"The Carved Horse
+31952 Camino Capistrano",San Juan Capistrano,CA,92675
+260,The Clothing Store,606 Lighthouse Ave.,Pacific Grove,CA,93950
+261,The Dutches - Closed,"The Dutches
+PO Box 761",Pebble Beach,CA,93953
+262,The Emerald Isle Boutique,1701 Calle De Mercado #2,Las Cruces,NM,88005
+263,The Finer Things - CLOSED,1803 Augusta Rd.,Greenville,SC,29605
+264,The Gallerie,"520 Durant Avenue, Suite 102",Aspen,CO,81611
+265,The Garden Room,1601 W. 38th St. Suite 5,Austin,TX,78731
+266,The Gentry Shop,5515 Utica Ridge Rd.,Davenport,IA,52807
+267,The House of Threads,588 East Main St. Suite A,Blue Ridge,GA,30513
+268,The Seven Sisters,2 Southwick St.,Mendon,MA,01758
+269,"The Statement, Cheyenne",1819 Carey Ave.,Cheyenne,WY,82001
+270,The Store,68 Throckmorton Ave.,Mill Valley,CA,94941
+271,Therapy,330 Main St. F1,Wakefield,RI,02879
+272,Tiger Lily,139 Main St.,Mt. Kisco,NY,10549
+273,Tobin's Pharmacy,1260 A Brown St.,Oconomowoc,WI,53066
+274,Top Drawer Lingerie,"attn: Accounts Payable
+1101 Uptown Park Blvd. #14",Houston,TX,77056
+275,Touch of Class,312 Main Street,La Crosse,WI,54601
+276,Toujours,2484 Sacramento St.,San Francisco,CA,94115
+277,Toujours Boutique,704 NW Beach Dr.,Newport,OR,97365
+278,Tribeca Boutique,1035 W. Madison,Chicago,IL,60607
+279,Tribez Salon,111 Town and Country Dr.,Danville,CA,94526
+280,"Trio Salon, Spa & Boutique",18029 SW Lower Boones Ferry Rd.,Tigard,OR,97224
+281,Uli's,800 Trinity Drive,Los Alamos,NM,87544
+282,Underwraps,9901 Barstow Court,Potomac,MD,20854
+283,Urban Cottage,157 Main Street,Peapack,NJ,07977
+284,Veronica's Attic,"220 Sandy Springs Circle NE, Suite 181",Atlanta,GA,30328
+285,Vie,9660 Clayton Rd.,Saint Louis,MO,63124
+286,Village Boutique Clothier,1417 Underwood Ave.,Wauwatosa,WI,53213
+287,W Wear,185 E. Main St.,Harbor Springs,MI,49740
+288,Wally's Fashions,"1205 West AVe.
+Brigantine,",Brigantine,NJ,08203
+289,Wardrobe,63 Park St.,Andover,MA,01810
+290,Waterlilies - Mill Valley,Two El Paseo,Mill Valley,CA,94941
+291,Waterlilies - San Francisco,"Meghan O' O'Callaghan
+3440 Sacramento Street",San Francisco,CA,94118
+292,Weatherbird,"132 Main Street
+PO Box 1167",Damariscotta,ME,04543
+293,Weekends,"1200 Pearl Street, Suite 105",Boulder,CO,80302
+294,What to Wear and More,2714 North Gate Blvd,Colorado Springs,CO,80921
+295,White Rose Boutique - Closed,"Ursula Mansten
+242 West Portal Ave.",San Francisco,CA,94127
+296,Wil Stiles,875 North Palm Canyon Drive,Palm Springs,CA,92262
+297,Wildflowers Lingerie,1212 N. Wells #1603,Chicago,IL,60610
+298,Woodstock Design,"Robin Kramer
+9 Tinker St.",Woodstock,NY,12498
+299,Wynk Boutique Hastings,537 W 2nd St # 102,Hastings,NE,68901
+300,Wyoming Outfitters,P.O. Box 7435,Jackson,WY,83002
+301,X-Hale Boutique,25 Lincoln St.,Newton,MA,02461
+302,Zazen,1110 First Street,Coronado,CA,92118
+303,Zema Lingerie,555 East Durant Avenue,Aspen,CO,81611
+304,Zulily,"308 Occidental Ave. S
+Suite 300",Seattle,WA,98104
